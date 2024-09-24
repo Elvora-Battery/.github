@@ -36,7 +36,7 @@ We are a group of enthusiastic developers and engineers committed to advancing t
 |------------------------------|---------------|-----------------------|-----------------------------------|
 | Informatika      | H1D020044   | [Susi Setianingsih](https://github.com) | [Susi Setianingsih](https://linkedin.com)      |
 | Informatika    | H1D020075   | [Muhammad Althaaf Abqary](https://github.com/taftaabqary) | [Muhammad Althaaf Abqary](https://www.linkedin.com/in/malthaafabqary/)      |
-| Informatika        | H1A020015   | [Annas Abdilah ](https://github.com) | [Annas Abdilah](https://www.linkedin.com)      |
+| T. Elektro        | H1A020015   | [Annas Abdillah ](https://github.com) | [Annas Abdillah](https://www.linkedin.com)      |
 | Teknik Elektro | H1D020066   | [Diah Martina Lestari ](https://github.com) | [Diah Martina Lestari](https://www.linkedin.com)      |
 
 ## 🚀 Project Features
