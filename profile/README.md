@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="app_logo.png" alt="Project Logo" width="300">
+  <img src="motion_logo.png" alt="Project Logo" width="300">
 </div>
 
 # Token-Based Battery Rental App for Electric Vehicle Inspection - Revolutionizing the TIC Industry
