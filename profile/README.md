@@ -6,7 +6,7 @@
 
 Welcome to our innovative project submission for **SCIence HackFest 2024**! We are a team passionate about transforming the Testing, Inspection, and Certification (TIC) industry through cutting-edge technology solutions that improve the efficiency of electric vehicle (EV) inspection, testing, and certification.
 
-![Project Showcase] (https://youtu.be/rB0k9HvW9UQ?si=ScwPfh53Q3_0lNDc)
+[Project Showcase](https://youtu.be/rB0k9HvW9UQ?si=ScwPfh53Q3_0lNDc)
 
 ## ⚡ Project Overview
 
